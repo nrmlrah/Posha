@@ -14,7 +14,7 @@ function App() {
       </style>
       <div style={{ width: '100vw', height: '100vh', overflow: 'hidden' }}>
         <iframe
-          src="https://ivory-works-620331.framer.app" // Replace with your own URL
+          src="https://nurtured-ideas-857763.framer.app/page" // Replace with your own URL
           title="Embedded Webpage"
           style={{ width: '100%', height: '100%', border: 'none' }}
         />
