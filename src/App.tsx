@@ -19,7 +19,7 @@ function App() {
           style={{ width: '100%', height: '100%', border: 'none' }}
         />
 
-        <button style={{ // Button to hide the framer badge, replace with your own CTA button
+{/*         <button style={{ // Button to hide the framer badge, replace with your own CTA button
           position: 'absolute',
           bottom: '17px',
           right: '33px',
@@ -38,7 +38,7 @@ function App() {
           }}
         >
           Book Demo
-        </button>
+        </button> */}
 
       </div>
     </>
